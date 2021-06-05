@@ -32,7 +32,7 @@ toilet -f big -F gay Danz1337
 echo $green"Stabilkan Jaringan By Danz1137"
 echo
 echo $green"My Website : https://tutorial-ngemhek.blogspot.com/"
-echo $green"My Team : GreyHat School Of Hackers - IndonesiaCyberNightmare>
+echo $green"My Team : GreyHat School Of Hackers - IndonesiaCyberNightmare"
 echo $green"Support : Mr.Wolverine & Keluarga"
 echo
 sleep 2
